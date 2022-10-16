@@ -9,6 +9,9 @@ Deployed at: _https://oda-chandansingh.herokuapp.com/_
 • If you are searching for __Code__, __Algorithms used__ and __Accuracy__ of the model.. you won't find it here. Click the link mentioned below for the same:<br />
 Link: _https://github.com/chandan7771/Olympics-Data-Analysis-with-Web---Application_
 
+• If you want to download the dataset used in this project you can download it from the given link below
+Link: _https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results_
+
 • Please do ⭐ the repository, if it helped you in anyway.
 
 • A glimpse of the web app
