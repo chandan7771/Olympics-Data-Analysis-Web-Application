@@ -12,5 +12,6 @@ Link: _https://github.com/anujvyas/Machine-Learning-Projects/tree/master/Diabete
 • Please do ⭐ the repository, if it helped you in anyway.
 
 • A glimpse of the web app
-httpsuser-images.githubusercontent.com106484718196047906-0b1099df-582c-4c7f-adc7-0846078bf24b.mp4
+
+https://user-images.githubusercontent.com/106484718/196049244-39b3f718-835b-4058-8b59-1da7f7b98bbd.mp4
 
